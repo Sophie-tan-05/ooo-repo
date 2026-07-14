@@ -1,0 +1,15 @@
+Section 1: Subtype Polymorphism Note
+
+Subtype polymorphism appears in the Q1 pipeline: `topCategoriesByReviewVolume`
+is declared to accept a `Seq[Product]` (Main.scala, Analytics object), but
+`Main` calls it with a `List[Product]` returned by `DataLoader`. Since `List`
+is a subtype of `Seq`, the same method body works unchanged regardless of the
+concrete collection type used underneath.
+
+Benefit: it decouples the analytics logic from the caller's storage choice,
+so `DataLoader` could switch to `Vector` internally without `Analytics`
+needing any change.
+
+Limitation: `Seq` erases performance guarantees — indexed access is O(n) on
+`List` but O(1) on `Vector`, so the type checker cannot warn a caller who
+writes slow code against a large `List`.

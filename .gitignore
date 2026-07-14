@@ -1,0 +1,10 @@
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.bloop/
+*.class
+.DS_Store
+.idea/
+target/

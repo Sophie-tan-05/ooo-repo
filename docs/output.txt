@@ -1,0 +1,52 @@
+Output: Loaded 312 products from 'data/sephora_sample.csv'.
+
+=== Q1: Top 5 categories by total review volume ===
+1. Makeup           total reviews = 326,709
+2. Skincare         total reviews = 144,476
+3. Haircare         total reviews = 135,671
+4. Bath & Body      total reviews = 118,630
+5. Fragrance        total reviews = 96,353
+
+=== Q2: Average price (RM) per category ===
+Bath & Body      avg price = RM 145.63  (n=58)
+Fragrance        avg price = RM 735.51  (n=59)
+Haircare         avg price = RM 161.14  (n=49)
+Makeup           avg price = RM 183.16  (n=53)
+Skincare         avg price = RM 511.48  (n=48)
+Tools & Brushes  avg price = RM 860.31  (n=45)
+
+=== Q3: Top-quartile-price products rated below their category average ===
+Revlon Tools & Brushes Item 1306         [Tools & Brushes] RM1876.54  rating=4.0 (cat avg=4.04)
+Tweezerman Tools & Brushes Item 1310     [Tools & Brushes] RM1687.99  rating=3.9 (cat avg=4.04)
+T3 Tools & Brushes Item 1279             [Tools & Brushes] RM1596.21  rating=3.8 (cat avg=4.04)
+Revlon Tools & Brushes Item 1293         [Tools & Brushes] RM1445.02  rating=3.9 (cat avg=4.04)
+Revlon Tools & Brushes Item 1296         [Tools & Brushes] RM1428.65  rating=3.7 (cat avg=4.04)
+T3 Tools & Brushes Item 1283             [Tools & Brushes] RM1220.39  rating=3.8 (cat avg=4.04)
+YSL Fragrance Item 1141                  [Fragrance     ] RM1163.18  rating=3.9 (cat avg=4.19)
+Chloe Fragrance Item 1112                [Fragrance     ] RM1149.81  rating=4.0 (cat avg=4.19)
+Gucci Fragrance Item 1150                [Fragrance     ] RM1095.50  rating=3.7 (cat avg=4.19)
+Revlon Tools & Brushes Item 1294         [Tools & Brushes] RM1057.04  rating=3.6 (cat avg=4.04)
+Dior Fragrance Item 1156                 [Fragrance     ] RM1051.67  rating=3.8 (cat avg=4.19)
+YSL Fragrance Item 1115                  [Fragrance     ] RM 983.73  rating=4.1 (cat avg=4.19)
+Beautyblender Tools & Brushes Item 1280  [Tools & Brushes] RM 963.74  rating=3.7 (cat avg=4.04)
+Real Techniques Tools & Brushes Item 1267 [Tools & Brushes] RM 957.24  rating=3.9 (cat avg=4.04)
+YSL Fragrance Item 1134                  [Fragrance     ] RM 926.06  rating=4.0 (cat avg=4.19)
+T3 Tools & Brushes Item 1300             [Tools & Brushes] RM 912.75  rating=3.5 (cat avg=4.04)
+Dior Fragrance Item 1129                 [Fragrance     ] RM 911.96  rating=4.0 (cat avg=4.19)
+Gucci Fragrance Item 1155                [Fragrance     ] RM 864.07  rating=4.1 (cat avg=4.19)
+YSL Fragrance Item 1117                  [Fragrance     ] RM 852.33  rating=4.0 (cat avg=4.19)
+Maison Margiela Fragrance Item 1152      [Fragrance     ] RM 838.31  rating=4.1 (cat avg=4.19)
+Drunk Elephant Skincare Item 1040        [Skincare      ] RM 820.00  rating=3.7 (cat avg=4.19)
+Tatcha Skincare Item 1024                [Skincare      ] RM 809.34  rating=3.8 (cat avg=4.19)
+Kiehl's Skincare Item 1008               [Skincare      ] RM 747.86  rating=4.1 (cat avg=4.19)
+Chloe Fragrance Item 1143                [Fragrance     ] RM 738.41  rating=3.7 (cat avg=4.19)
+Maison Margiela Fragrance Item 1135      [Fragrance     ] RM 708.77  rating=3.8 (cat avg=4.19)
+Sunday Riley Skincare Item 1003          [Skincare      ] RM 704.21  rating=3.6 (cat avg=4.19)
+Tatcha Skincare Item 1030                [Skincare      ] RM 702.74  rating=3.8 (cat avg=4.19)
+Fresh Skincare Item 1016                 [Skincare      ] RM 690.94  rating=4.1 (cat avg=4.19)
+Sunday Riley Skincare Item 1018          [Skincare      ] RM 672.98  rating=4.0 (cat avg=4.19)
+Dyson Tools & Brushes Item 1285          [Tools & Brushes] RM 664.63  rating=3.7 (cat avg=4.04)
+Sunday Riley Skincare Item 1014          [Skincare      ] RM 656.47  rating=4.1 (cat avg=4.19)
+Drunk Elephant Skincare Item 1000        [Skincare      ] RM 652.29  rating=3.9 (cat avg=4.19)
+Kiehl's Skincare Item 1007               [Skincare      ] RM 624.00  rating=3.7 (cat avg=4.19)
+Drybar Tools & Brushes Item 1309         [Tools & Brushes] RM 621.99  rating=3.9 (cat avg=4.04)

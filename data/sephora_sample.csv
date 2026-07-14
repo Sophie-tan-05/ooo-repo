@@ -1,0 +1,313 @@
+product_id,product_name,brand_name,category,price_myr,rating,reviews
+1000,Drunk Elephant Skincare Item 1000,Drunk Elephant,Skincare,652.29,3.9,1193
+1001,The Ordinary Skincare Item 1001,The Ordinary,Skincare,536.73,3.6,817
+1002,Drunk Elephant Skincare Item 1002,Drunk Elephant,Skincare,514.35,4.5,5795
+1003,Sunday Riley Skincare Item 1003,Sunday Riley,Skincare,704.21,3.6,1357
+1004,Fresh Skincare Item 1004,Fresh,Skincare,249.72,4.5,887
+1005,La Mer Skincare Item 1005,La Mer,Skincare,546.85,4.6,3813
+1006,CeraVe Skincare Item 1006,CeraVe,Skincare,145.28,4.0,5199
+1007,Kiehl's Skincare Item 1007,Kiehl's,Skincare,624.0,3.7,1916
+1008,Kiehl's Skincare Item 1008,Kiehl's,Skincare,747.86,4.1,3764
+1009,La Mer Skincare Item 1009,La Mer,Skincare,356.78,4.4,5799
+1010,Fresh Skincare Item 1010,Fresh,Skincare,493.62,3.9,3836
+1011,Kiehl's Skincare Item 1011,Kiehl's,Skincare,608.73,4.6,508
+1012,La Mer Skincare Item 1012,La Mer,Skincare,391.89,3.7,4696
+1013,Tatcha Skincare Item 1013,Tatcha,Skincare,387.66,4.7,3808
+1014,Sunday Riley Skincare Item 1014,Sunday Riley,Skincare,656.47,4.1,4830
+1015,Fresh Skincare Item 1015,Fresh,Skincare,474.79,3.7,435
+1016,Fresh Skincare Item 1016,Fresh,Skincare,690.94,4.1,570
+1017,Tatcha Skincare Item 1017,Tatcha,Skincare,489.77,4.8,144
+1018,Sunday Riley Skincare Item 1018,Sunday Riley,Skincare,672.98,4.0,2454
+1019,Sunday Riley Skincare Item 1019,Sunday Riley,Skincare,828.49,4.5,4208
+1020,Sunday Riley Skincare Item 1020,Sunday Riley,Skincare,728.88,4.2,1679
+1021,Drunk Elephant Skincare Item 1021,Drunk Elephant,Skincare,543.19,4.2,966
+1022,Sunday Riley Skincare Item 1022,Sunday Riley,Skincare,268.18,3.9,4697
+1023,Tatcha Skincare Item 1023,Tatcha,Skincare,709.26,4.8,4413
+1024,Tatcha Skincare Item 1024,Tatcha,Skincare,809.34,3.8,4372
+1025,Kiehl's Skincare Item 1025,Kiehl's,Skincare,795.62,4.5,5701
+1026,La Mer Skincare Item 1026,La Mer,Skincare,420.15,4.2,1041
+1027,Drunk Elephant Skincare Item 1027,Drunk Elephant,Skincare,,3.9,1854
+1028,Drunk Elephant Skincare Item 1028,Drunk Elephant,Skincare,260.14,4.7,2756
+1029,Tatcha Skincare Item 1029,Tatcha,Skincare,248.89,3.8,4727
+1030,Tatcha Skincare Item 1030,Tatcha,Skincare,702.74,3.8,844
+1031,CeraVe Skincare Item 1031,CeraVe,Skincare,442.27,4.5,5566
+1032,Drunk Elephant Skincare Item 1032,Drunk Elephant,Skincare,393.01,4.0,945
+1033,Tatcha Skincare Item 1033,Tatcha,Skincare,192.24,3.8,3839
+1034,Tatcha Skincare Item 1034,Tatcha,Skincare,703.14,4.6,852
+1035,Drunk Elephant Skincare Item 1035,Drunk Elephant,Skincare,826.28,4.7,1986
+1036,Kiehl's Skincare Item 1036,Kiehl's,Skincare,746.46,4.7,1398
+1037,Sunday Riley Skincare Item 1037,Sunday Riley,Skincare,793.79,4.5,2386
+1038,Tatcha Skincare Item 1038,Tatcha,Skincare,203.42,4.0,529
+1039,La Mer Skincare Item 1039,La Mer,Skincare,128.73,4.3,4169
+1040,Drunk Elephant Skincare Item 1040,Drunk Elephant,Skincare,820.0,3.7,1572
+1041,Kiehl's Skincare Item 1041,Kiehl's,Skincare,393.89,4.7,4716
+1042,The Ordinary Skincare Item 1042,The Ordinary,Skincare,405.71,4.3,4332
+1043,La Mer Skincare Item 1043,La Mer,Skincare,267.59,4.1,5552
+1044,The Ordinary Skincare Item 1044,The Ordinary,Skincare,92.13,4.3,4662
+1045,Kiehl's Skincare Item 1045,Kiehl's,Skincare,472.0,3.8,2909
+1046,La Mer Skincare Item 1046,La Mer,Skincare,303.02,4.1,4500
+1047,Drunk Elephant Skincare Item 1047,Drunk Elephant,Skincare,595.92,4.3,5484
+1048,Fenty Beauty Makeup Item 1048,Fenty Beauty,Makeup,291.88,4.6,2746
+1049,Tarte Makeup Item 1049,Tarte,Makeup,116.92,4.5,4525
+1050,Rare Beauty Makeup Item 1050,Rare Beauty,Makeup,88.54,4.3,4733
+1051,Charlotte Tilbury Makeup Item 1051,Charlotte Tilbury,Makeup,227.46,4.1,7439
+1052,Rare Beauty Makeup Item 1052,Rare Beauty,Makeup,93.53,4.8,11521
+1053,Tarte Makeup Item 1053,Tarte,Makeup,213.54,4.0,2288
+1054,Rare Beauty Makeup Item 1054,Rare Beauty,Makeup,294.23,4.0,4288
+1055,Huda Beauty Makeup Item 1055,Huda Beauty,Makeup,313.33,4.6,4078
+1056,Charlotte Tilbury Makeup Item 1056,Charlotte Tilbury,Makeup,289.76,3.8,5642
+1057,NARS Makeup Item 1057,NARS,Makeup,133.04,4.7,1971
+1058,MAC Makeup Item 1058,MAC,Makeup,121.72,4.7,7741
+1059,NARS Makeup Item 1059,NARS,Makeup,121.85,4.5,6728
+1060,Too Faced Makeup Item 1060,Too Faced,Makeup,154.54,4.4,11333
+1061,Rare Beauty Makeup Item 1061,Rare Beauty,Makeup,94.41,4.9,3125
+1062,Rare Beauty Makeup Item 1062,Rare Beauty,Makeup,92.64,4.3,5339
+1063,Fenty Beauty Makeup Item 1063,Fenty Beauty,Makeup,163.22,4.4,4373
+1064,NARS Makeup Item 1064,NARS,Makeup,157.88,3.9,11082
+1065,Fenty Beauty Makeup Item 1065,Fenty Beauty,Makeup,248.54,4.1,5267
+1066,Too Faced Makeup Item 1066,Too Faced,Makeup,206.38,4.0,11094
+1067,Charlotte Tilbury Makeup Item 1067,Charlotte Tilbury,Makeup,221.96,4.1,9177
+1068,NARS Makeup Item 1068,NARS,Makeup,174.62,4.4,10926
+1069,NARS Makeup Item 1069,NARS,Makeup,195.35,4.7,2980
+1070,Tarte Makeup Item 1070,Tarte,Makeup,88.81,4.8,4048
+1071,NARS Makeup Item 1071,NARS,Makeup,102.58,3.9,7984
+1072,MAC Makeup Item 1072,MAC,Makeup,170.68,4.5,3385
+1073,Huda Beauty Makeup Item 1073,Huda Beauty,Makeup,127.22,4.5,290
+1074,Fenty Beauty Makeup Item 1074,Fenty Beauty,Makeup,263.5,4.0,11601
+1075,NARS Makeup Item 1075,NARS,Makeup,298.95,3.9,2384
+1076,Tarte Makeup Item 1076,Tarte,Makeup,307.26,4.8,10237
+1077,Huda Beauty Makeup Item 1077,Huda Beauty,Makeup,276.8,4.4,2807
+1078,Too Faced Makeup Item 1078,Too Faced,Makeup,256.7,4.7,4743
+1079,NARS Makeup Item 1079,NARS,Makeup,135.02,3.9,4881
+1080,Fenty Beauty Makeup Item 1080,Fenty Beauty,Makeup,100.29,4.1,11569
+1081,Huda Beauty Makeup Item 1081,Huda Beauty,Makeup,168.94,4.4,7012
+1082,Huda Beauty Makeup Item 1082,Huda Beauty,Makeup,,4.4,11595
+1083,Huda Beauty Makeup Item 1083,Huda Beauty,Makeup,186.63,4.8,5092
+1084,Huda Beauty Makeup Item 1084,Huda Beauty,Makeup,202.25,4.6,10083
+1085,Too Faced Makeup Item 1085,Too Faced,Makeup,176.14,3.8,5707
+1086,Charlotte Tilbury Makeup Item 1086,Charlotte Tilbury,Makeup,279.33,4.8,10395
+1087,Rare Beauty Makeup Item 1087,Rare Beauty,Makeup,86.41,4.3,7764
+1088,Tarte Makeup Item 1088,Tarte,Makeup,118.97,4.2,6411
+1089,Huda Beauty Makeup Item 1089,Huda Beauty,Makeup,129.33,3.9,517
+1090,Tarte Makeup Item 1090,Tarte,Makeup,122.18,3.9,10878
+1091,NARS Makeup Item 1091,NARS,Makeup,115.84,3.8,2696
+1092,Fenty Beauty Makeup Item 1092,Fenty Beauty,Makeup,208.81,4.0,11660
+1093,Fenty Beauty Makeup Item 1093,Fenty Beauty,Makeup,263.34,,5296
+1094,Too Faced Makeup Item 1094,Too Faced,Makeup,211.83,4.8,6349
+1095,Fenty Beauty Makeup Item 1095,Fenty Beauty,Makeup,215.98,4.7,4178
+1096,Fenty Beauty Makeup Item 1096,Fenty Beauty,Makeup,268.04,4.4,872
+1097,Tarte Makeup Item 1097,Tarte,Makeup,82.58,4.5,407
+1098,Fenty Beauty Makeup Item 1098,Fenty Beauty,Makeup,175.55,4.2,7732
+1099,Too Faced Makeup Item 1099,Too Faced,Makeup,222.06,4.8,8121
+1100,Too Faced Makeup Item 1100,Too Faced,Makeup,147.19,4.1,1619
+1101,Dior Fragrance Item 1101,Dior,Fragrance,599.35,4.2,1361
+1102,Gucci Fragrance Item 1102,Gucci,Fragrance,602.8,4.6,2902
+1103,YSL Fragrance Item 1103,YSL,Fragrance,379.91,4.4,2031
+1104,Tom Ford Fragrance Item 1104,Tom Ford,Fragrance,870.17,4.2,100
+1105,YSL Fragrance Item 1105,YSL,Fragrance,572.93,4.3,1968
+1106,Viktor&Rolf Fragrance Item 1106,Viktor&Rolf,Fragrance,612.83,4.2,1285
+1107,YSL Fragrance Item 1107,YSL,Fragrance,581.1,4.4,2856
+1108,Tom Ford Fragrance Item 1108,Tom Ford,Fragrance,546.94,4.3,2178
+1109,YSL Fragrance Item 1109,YSL,Fragrance,,4.1,1268
+1110,Gucci Fragrance Item 1110,Gucci,Fragrance,344.83,3.8,1226
+1111,Tom Ford Fragrance Item 1111,Tom Ford,Fragrance,394.76,3.7,1194
+1112,Chloe Fragrance Item 1112,Chloe,Fragrance,1149.81,4.0,1986
+1113,Tom Ford Fragrance Item 1113,Tom Ford,Fragrance,369.82,4.3,249
+1114,Gucci Fragrance Item 1114,Gucci,Fragrance,379.53,3.9,2315
+1115,YSL Fragrance Item 1115,YSL,Fragrance,983.73,4.1,1843
+1116,Dior Fragrance Item 1116,Dior,Fragrance,572.21,4.3,2527
+1117,YSL Fragrance Item 1117,YSL,Fragrance,852.33,4.0,362
+1118,Maison Margiela Fragrance Item 1118,Maison Margiela,Fragrance,441.97,4.1,2853
+1119,YSL Fragrance Item 1119,YSL,Fragrance,557.09,4.0,1889
+1120,Gucci Fragrance Item 1120,Gucci,Fragrance,994.35,4.3,2738
+1121,Maison Margiela Fragrance Item 1121,Maison Margiela,Fragrance,781.49,4.3,1118
+1122,Chloe Fragrance Item 1122,Chloe,Fragrance,998.55,4.3,2361
+1123,Tom Ford Fragrance Item 1123,Tom Ford,Fragrance,907.59,4.4,1145
+1124,Maison Margiela Fragrance Item 1124,Maison Margiela,Fragrance,828.28,,1350
+1125,YSL Fragrance Item 1125,YSL,Fragrance,1146.67,,2386
+1126,Gucci Fragrance Item 1126,Gucci,Fragrance,809.22,4.5,747
+1127,Gucci Fragrance Item 1127,Gucci,Fragrance,463.8,4.3,2630
+1128,Tom Ford Fragrance Item 1128,Tom Ford,Fragrance,609.47,4.0,2774
+1129,Dior Fragrance Item 1129,Dior,Fragrance,911.96,4.0,1670
+1130,Tom Ford Fragrance Item 1130,Tom Ford,Fragrance,382.05,4.0,504
+1131,Jo Malone London Fragrance Item 1131,Jo Malone London,Fragrance,880.45,4.2,1722
+1132,Tom Ford Fragrance Item 1132,Tom Ford,Fragrance,852.23,4.5,863
+1133,Gucci Fragrance Item 1133,Gucci,Fragrance,,4.4,527
+1134,YSL Fragrance Item 1134,YSL,Fragrance,926.06,4.0,86
+1135,Maison Margiela Fragrance Item 1135,Maison Margiela,Fragrance,708.77,3.8,660
+1136,Gucci Fragrance Item 1136,Gucci,Fragrance,668.55,4.2,1964
+1137,Dior Fragrance Item 1137,Dior,Fragrance,471.78,4.3,589
+1138,Dior Fragrance Item 1138,Dior,Fragrance,602.39,4.5,1124
+1139,Gucci Fragrance Item 1139,Gucci,Fragrance,1037.79,4.3,2733
+1140,Tom Ford Fragrance Item 1140,Tom Ford,Fragrance,606.98,4.3,2255
+1141,YSL Fragrance Item 1141,YSL,Fragrance,1163.18,3.9,1598
+1142,Jo Malone London Fragrance Item 1142,Jo Malone London,Fragrance,583.4,4.2,1591
+1143,Chloe Fragrance Item 1143,Chloe,Fragrance,738.41,3.7,2087
+1144,Maison Margiela Fragrance Item 1144,Maison Margiela,Fragrance,1069.92,,2184
+1145,Chloe Fragrance Item 1145,Chloe,Fragrance,663.73,4.4,662
+1146,Gucci Fragrance Item 1146,Gucci,Fragrance,601.24,4.4,2691
+1147,Dior Fragrance Item 1147,Dior,Fragrance,1139.87,4.3,2028
+1148,Maison Margiela Fragrance Item 1148,Maison Margiela,Fragrance,510.42,4.4,1207
+1149,Dior Fragrance Item 1149,Dior,Fragrance,1161.05,4.5,2913
+1150,Gucci Fragrance Item 1150,Gucci,Fragrance,1095.5,3.7,259
+1151,Chloe Fragrance Item 1151,Chloe,Fragrance,518.67,4.1,2822
+1152,Maison Margiela Fragrance Item 1152,Maison Margiela,Fragrance,838.31,4.1,2828
+1153,Chloe Fragrance Item 1153,Chloe,Fragrance,508.16,,1912
+1154,Tom Ford Fragrance Item 1154,Tom Ford,Fragrance,1093.56,4.4,677
+1155,Gucci Fragrance Item 1155,Gucci,Fragrance,864.07,4.1,1054
+1156,Dior Fragrance Item 1156,Dior,Fragrance,1051.67,3.8,1592
+1157,Gucci Fragrance Item 1157,Gucci,Fragrance,324.2,4.5,1651
+1158,Jo Malone London Fragrance Item 1158,Jo Malone London,Fragrance,1101.79,4.4,1202
+1159,Viktor&Rolf Fragrance Item 1159,Viktor&Rolf,Fragrance,496.63,3.9,1056
+1160,Living Proof Haircare Item 1160,Living Proof,Haircare,258.27,4.5,2630
+1161,Verb Haircare Item 1161,Verb,Haircare,219.78,4.0,2517
+1162,Kerastase Haircare Item 1162,Kerastase,Haircare,84.74,4.4,3097
+1163,Briogeo Haircare Item 1163,Briogeo,Haircare,112.82,4.6,4047
+1164,Verb Haircare Item 1164,Verb,Haircare,235.95,4.3,716
+1165,Ouai Haircare Item 1165,Ouai,Haircare,272.64,4.6,3096
+1166,Amika Haircare Item 1166,Amika,Haircare,175.73,4.3,2247
+1167,Verb Haircare Item 1167,Verb,Haircare,79.38,4.1,305
+1168,Verb Haircare Item 1168,Verb,Haircare,260.93,4.1,617
+1169,Amika Haircare Item 1169,Amika,Haircare,201.08,4.0,471
+1170,Moroccanoil Haircare Item 1170,Moroccanoil,Haircare,81.13,4.1,4503
+1171,Ouai Haircare Item 1171,Ouai,Haircare,187.15,4.6,3498
+1172,Ouai Haircare Item 1172,Ouai,Haircare,266.29,4.2,3135
+1173,Kerastase Haircare Item 1173,Kerastase,Haircare,247.48,4.0,3109
+1174,Verb Haircare Item 1174,Verb,Haircare,68.62,4.1,1100
+1175,Living Proof Haircare Item 1175,Living Proof,Haircare,204.12,4.5,4991
+1176,Verb Haircare Item 1176,Verb,Haircare,109.8,4.0,4725
+1177,Kerastase Haircare Item 1177,Kerastase,Haircare,186.94,4.6,2008
+1178,Olaplex Haircare Item 1178,Olaplex,Haircare,117.39,4.8,1164
+1179,Living Proof Haircare Item 1179,Living Proof,Haircare,203.74,3.9,221
+1180,Verb Haircare Item 1180,Verb,Haircare,58.55,4.1,1138
+1181,Living Proof Haircare Item 1181,Living Proof,Haircare,162.16,4.6,4304
+1182,Kerastase Haircare Item 1182,Kerastase,Haircare,267.72,3.9,4371
+1183,Olaplex Haircare Item 1183,Olaplex,Haircare,68.69,4.3,3390
+1184,Moroccanoil Haircare Item 1184,Moroccanoil,Haircare,71.54,4.0,1315
+1185,Verb Haircare Item 1185,Verb,Haircare,140.7,4.4,2515
+1186,Living Proof Haircare Item 1186,Living Proof,Haircare,233.45,4.0,4616
+1187,Moroccanoil Haircare Item 1187,Moroccanoil,Haircare,254.82,4.3,3815
+1188,Verb Haircare Item 1188,Verb,Haircare,151.02,4.5,3166
+1189,Moroccanoil Haircare Item 1189,Moroccanoil,Haircare,70.1,4.6,863
+1190,Verb Haircare Item 1190,Verb,Haircare,237.65,4.4,4904
+1191,Living Proof Haircare Item 1191,Living Proof,Haircare,147.43,4.7,3564
+1192,Amika Haircare Item 1192,Amika,Haircare,190.09,4.2,4834
+1193,Moroccanoil Haircare Item 1193,Moroccanoil,Haircare,105.46,4.0,4656
+1194,Kerastase Haircare Item 1194,Kerastase,Haircare,,4.7,4660
+1195,Amika Haircare Item 1195,Amika,Haircare,61.51,4.1,2631
+1196,Briogeo Haircare Item 1196,Briogeo,Haircare,250.72,4.4,3383
+1197,Olaplex Haircare Item 1197,Olaplex,Haircare,75.65,4.4,3181
+1198,Verb Haircare Item 1198,Verb,Haircare,125.12,4.2,4749
+1199,Briogeo Haircare Item 1199,Briogeo,Haircare,90.42,4.5,768
+1200,Moroccanoil Haircare Item 1200,Moroccanoil,Haircare,191.59,4.3,1865
+1201,Ouai Haircare Item 1201,Ouai,Haircare,79.95,4.5,4958
+1202,Olaplex Haircare Item 1202,Olaplex,Haircare,,4.8,548
+1203,Kerastase Haircare Item 1203,Kerastase,Haircare,227.65,,2471
+1204,Ouai Haircare Item 1204,Ouai,Haircare,94.53,4.2,1985
+1205,Verb Haircare Item 1205,Verb,Haircare,71.22,4.7,446
+1206,Living Proof Haircare Item 1206,Living Proof,Haircare,248.97,4.4,4797
+1207,Amika Haircare Item 1207,Amika,Haircare,80.91,3.9,2760
+1208,Moroccanoil Haircare Item 1208,Moroccanoil,Haircare,242.21,4.7,821
+1209,Glow Recipe Bath & Body Item 1209,Glow Recipe,Bath & Body,157.65,4.2,1330
+1210,Nest New York Bath & Body Item 1210,Nest New York,Bath & Body,61.42,4.4,2233
+1211,Tatcha Bath & Body Item 1211,Tatcha,Bath & Body,120.49,4.7,2703
+1212,Nest New York Bath & Body Item 1212,Nest New York,Bath & Body,100.03,4.0,686
+1213,Nest New York Bath & Body Item 1213,Nest New York,Bath & Body,249.53,4.4,1960
+1214,Herbivore Bath & Body Item 1214,Herbivore,Bath & Body,191.44,4.6,2693
+1215,Tatcha Bath & Body Item 1215,Tatcha,Bath & Body,77.46,3.9,1871
+1216,Sol de Janeiro Bath & Body Item 1216,Sol de Janeiro,Bath & Body,120.67,3.9,1951
+1217,Lush Bath & Body Item 1217,Lush,Bath & Body,61.5,4.6,3563
+1218,Glow Recipe Bath & Body Item 1218,Glow Recipe,Bath & Body,144.48,4.3,3303
+1219,Philosophy Bath & Body Item 1219,Philosophy,Bath & Body,114.13,4.2,677
+1220,Tatcha Bath & Body Item 1220,Tatcha,Bath & Body,256.21,3.9,2706
+1221,Herbivore Bath & Body Item 1221,Herbivore,Bath & Body,258.06,4.3,2557
+1222,Lush Bath & Body Item 1222,Lush,Bath & Body,128.29,4.5,2840
+1223,Tatcha Bath & Body Item 1223,Tatcha,Bath & Body,59.17,3.9,2838
+1224,Nest New York Bath & Body Item 1224,Nest New York,Bath & Body,116.67,4.3,639
+1225,Glow Recipe Bath & Body Item 1225,Glow Recipe,Bath & Body,72.72,4.4,407
+1226,Tatcha Bath & Body Item 1226,Tatcha,Bath & Body,219.83,4.4,3455
+1227,Kopari Bath & Body Item 1227,Kopari,Bath & Body,,4.2,1542
+1228,Philosophy Bath & Body Item 1228,Philosophy,Bath & Body,118.47,4.5,846
+1229,Kopari Bath & Body Item 1229,Kopari,Bath & Body,108.6,4.5,2139
+1230,Sol de Janeiro Bath & Body Item 1230,Sol de Janeiro,Bath & Body,187.31,4.6,2591
+1231,Nest New York Bath & Body Item 1231,Nest New York,Bath & Body,83.88,4.4,2618
+1232,Herbivore Bath & Body Item 1232,Herbivore,Bath & Body,54.39,4.1,3007
+1233,Lush Bath & Body Item 1233,Lush,Bath & Body,206.76,4.5,1018
+1234,Herbivore Bath & Body Item 1234,Herbivore,Bath & Body,239.35,4.0,2838
+1235,Herbivore Bath & Body Item 1235,Herbivore,Bath & Body,210.43,4.5,2119
+1236,Philosophy Bath & Body Item 1236,Philosophy,Bath & Body,217.27,3.9,1084
+1237,Tatcha Bath & Body Item 1237,Tatcha,Bath & Body,164.23,3.9,3524
+1238,Kopari Bath & Body Item 1238,Kopari,Bath & Body,209.07,4.0,3768
+1239,Kopari Bath & Body Item 1239,Kopari,Bath & Body,248.48,4.0,1907
+1240,Glow Recipe Bath & Body Item 1240,Glow Recipe,Bath & Body,56.45,4.3,1025
+1241,Philosophy Bath & Body Item 1241,Philosophy,Bath & Body,51.06,4.6,3497
+1242,Nest New York Bath & Body Item 1242,Nest New York,Bath & Body,74.58,4.1,3458
+1243,Herbivore Bath & Body Item 1243,Herbivore,Bath & Body,,3.8,384
+1244,Nest New York Bath & Body Item 1244,Nest New York,Bath & Body,162.99,4.5,2221
+1245,Philosophy Bath & Body Item 1245,Philosophy,Bath & Body,109.75,3.8,1779
+1246,Kopari Bath & Body Item 1246,Kopari,Bath & Body,68.83,4.6,2504
+1247,Philosophy Bath & Body Item 1247,Philosophy,Bath & Body,199.49,4.1,66
+1248,Glow Recipe Bath & Body Item 1248,Glow Recipe,Bath & Body,85.27,4.4,2204
+1249,Sol de Janeiro Bath & Body Item 1249,Sol de Janeiro,Bath & Body,128.95,4.2,2663
+1250,Sol de Janeiro Bath & Body Item 1250,Sol de Janeiro,Bath & Body,121.78,3.9,1047
+1251,Tatcha Bath & Body Item 1251,Tatcha,Bath & Body,73.68,4.1,1446
+1252,Herbivore Bath & Body Item 1252,Herbivore,Bath & Body,255.88,4.2,806
+1253,Herbivore Bath & Body Item 1253,Herbivore,Bath & Body,52.95,4.0,3300
+1254,Lush Bath & Body Item 1254,Lush,Bath & Body,155.81,4.7,2284
+1255,Philosophy Bath & Body Item 1255,Philosophy,Bath & Body,106.51,4.6,255
+1256,Kopari Bath & Body Item 1256,Kopari,Bath & Body,216.86,4.2,1698
+1257,Glow Recipe Bath & Body Item 1257,Glow Recipe,Bath & Body,117.89,4.0,2894
+1258,Lush Bath & Body Item 1258,Lush,Bath & Body,217.25,4.5,383
+1259,Nest New York Bath & Body Item 1259,Nest New York,Bath & Body,162.28,4.1,387
+1260,Herbivore Bath & Body Item 1260,Herbivore,Bath & Body,174.56,4.2,2885
+1261,Tatcha Bath & Body Item 1261,Tatcha,Bath & Body,177.19,4.2,2679
+1262,Kopari Bath & Body Item 1262,Kopari,Bath & Body,189.3,4.2,2161
+1263,Sol de Janeiro Bath & Body Item 1263,Sol de Janeiro,Bath & Body,75.7,4.3,3260
+1264,Philosophy Bath & Body Item 1264,Philosophy,Bath & Body,212.38,4.1,1628
+1265,Nest New York Bath & Body Item 1265,Nest New York,Bath & Body,191.0,4.7,1583
+1266,Nest New York Bath & Body Item 1266,Nest New York,Bath & Body,158.83,4.2,2720
+1267,Real Techniques Tools & Brushes Item 1267,Real Techniques,Tools & Brushes,957.24,3.9,2320
+1268,Drybar Tools & Brushes Item 1268,Drybar,Tools & Brushes,433.24,4.2,2031
+1269,Beautyblender Tools & Brushes Item 1269,Beautyblender,Tools & Brushes,870.66,4.5,1843
+1270,Revlon Tools & Brushes Item 1270,Revlon,Tools & Brushes,1268.16,4.3,2272
+1271,Real Techniques Tools & Brushes Item 1271,Real Techniques,Tools & Brushes,1349.15,4.5,733
+1272,Beautyblender Tools & Brushes Item 1272,Beautyblender,Tools & Brushes,1852.61,,989
+1273,Revlon Tools & Brushes Item 1273,Revlon,Tools & Brushes,898.96,4.6,551
+1274,T3 Tools & Brushes Item 1274,T3,Tools & Brushes,771.41,4.3,1980
+1275,Beautyblender Tools & Brushes Item 1275,Beautyblender,Tools & Brushes,268.85,3.8,323
+1276,Revlon Tools & Brushes Item 1276,Revlon,Tools & Brushes,274.39,4.4,2278
+1277,Real Techniques Tools & Brushes Item 1277,Real Techniques,Tools & Brushes,834.88,4.5,246
+1278,T3 Tools & Brushes Item 1278,T3,Tools & Brushes,341.3,3.9,943
+1279,T3 Tools & Brushes Item 1279,T3,Tools & Brushes,1596.21,3.8,2276
+1280,Beautyblender Tools & Brushes Item 1280,Beautyblender,Tools & Brushes,963.74,3.7,2398
+1281,Revlon Tools & Brushes Item 1281,Revlon,Tools & Brushes,1589.94,4.1,136
+1282,T3 Tools & Brushes Item 1282,T3,Tools & Brushes,1237.38,4.3,1726
+1283,T3 Tools & Brushes Item 1283,T3,Tools & Brushes,1220.39,3.8,1023
+1284,T3 Tools & Brushes Item 1284,T3,Tools & Brushes,873.43,4.3,667
+1285,Dyson Tools & Brushes Item 1285,Dyson,Tools & Brushes,664.63,3.7,1327
+1286,Tweezerman Tools & Brushes Item 1286,Tweezerman,Tools & Brushes,278.87,3.9,2320
+1287,Beautyblender Tools & Brushes Item 1287,Beautyblender,Tools & Brushes,530.68,3.8,416
+1288,Tweezerman Tools & Brushes Item 1288,Tweezerman,Tools & Brushes,495.31,4.5,674
+1289,Revlon Tools & Brushes Item 1289,Revlon,Tools & Brushes,387.67,3.7,2128
+1290,Drybar Tools & Brushes Item 1290,Drybar,Tools & Brushes,80.69,4.5,2090
+1291,Revlon Tools & Brushes Item 1291,Revlon,Tools & Brushes,127.63,3.8,2467
+1292,Drybar Tools & Brushes Item 1292,Drybar,Tools & Brushes,564.35,3.5,460
+1293,Revlon Tools & Brushes Item 1293,Revlon,Tools & Brushes,1445.02,3.9,1660
+1294,Revlon Tools & Brushes Item 1294,Revlon,Tools & Brushes,1057.04,3.6,2085
+1295,Beautyblender Tools & Brushes Item 1295,Beautyblender,Tools & Brushes,275.0,3.6,1548
+1296,Revlon Tools & Brushes Item 1296,Revlon,Tools & Brushes,1428.65,3.7,2105
+1297,Sephora Collection Tools & Brushes Item 1297,Sephora Collection,Tools & Brushes,290.42,3.9,1960
+1298,Real Techniques Tools & Brushes Item 1298,Real Techniques,Tools & Brushes,642.11,4.2,685
+1299,T3 Tools & Brushes Item 1299,T3,Tools & Brushes,1131.64,4.1,2107
+1300,T3 Tools & Brushes Item 1300,T3,Tools & Brushes,912.75,3.5,1376
+1301,T3 Tools & Brushes Item 1301,T3,Tools & Brushes,1505.62,4.3,129
+1302,Dyson Tools & Brushes Item 1302,Dyson,Tools & Brushes,1366.82,4.1,718
+1303,Tweezerman Tools & Brushes Item 1303,Tweezerman,Tools & Brushes,310.2,4.2,149
+1304,Dyson Tools & Brushes Item 1304,Dyson,Tools & Brushes,72.88,3.8,640
+1305,Drybar Tools & Brushes Item 1305,Drybar,Tools & Brushes,1645.73,4.3,275
+1306,Revlon Tools & Brushes Item 1306,Revlon,Tools & Brushes,1876.54,4.0,1563
+1307,Revlon Tools & Brushes Item 1307,Revlon,Tools & Brushes,1044.24,4.2,1102
+1308,Dyson Tools & Brushes Item 1308,Dyson,Tools & Brushes,551.93,3.8,1239
+1309,Drybar Tools & Brushes Item 1309,Drybar,Tools & Brushes,621.99,3.9,1140
+1310,Tweezerman Tools & Brushes Item 1310,Tweezerman,Tools & Brushes,1687.99,3.9,1433
+1311,T3 Tools & Brushes Item 1311,T3,Tools & Brushes,115.49,4.6,343
